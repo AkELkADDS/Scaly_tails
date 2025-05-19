@@ -1,0 +1,778 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+   Mon 05/19/2025  7:35:52.63 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB.lsmg 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205.lsmg 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360.lsmg 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162.lsmg 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c: 5 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c: 3 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_BAKE_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_BAKE_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_BAKE_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_BAKE_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_BAKE_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_BAKE_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_BAKE_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_BAKE_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_BAKE_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_BAKE_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_BAKE_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_BAKE_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\004f70af-6d31-a5b2-f6d9-6b7d80021205.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\0abdb12b-3100-d974-01a9-733e1c735012.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\1cce73da-d712-706f-65a0-4edaf35a8a35.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\1ebaeef9-c38c-9ba8-f952-23ce3fa4d360.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\2007f594-2857-408a-b56b-1f96dd613fe0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\4f303e8c-d459-4931-9e73-0419ae74df47.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\50cc8e1a-36b4-af2a-983f-f708f4bbb86d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\59299983-9b8f-46c7-40e6-90444d970c3b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\5d38729d-7d74-0272-5086-4bd5dab3b162.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\68f8e508-db0e-6491-01e2-61b30aa97722.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\75c41565-ecd8-a765-11a0-7ecbe90941bb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\7722a9d4-af36-0c2a-1ee0-d605e335b7c6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\981d1c01-e8ce-4104-9374-dccce5cb6319.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\98c5fd60-5922-c6ef-9ba0-55471d190534.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\b2cd2fc9-db50-1870-9033-f4c93742d867.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\d7aa24e3-4f8d-9ba7-b9a8-eed882cf3cf6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\f210cf94-788a-ed76-a8fb-a33e32581ee5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_C_EL_Pinecone.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_C_EL_Pinecone.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_Sahuagin_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_Sahuagin_A.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_Sahuagin_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_Sahuagin_B.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c: 208 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_C_EL_Pinecone_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_C_EL_Pinecone_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_C_EL_Pinecone_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_C_EL_Pinecone_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_C_EL_Pinecone_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_Sahuagin_A_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_Sahuagin_A_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_Sahuagin_A_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_Sahuagin_A_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_Sahuagin_A_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_C_EL_Pinecone.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_Sahuagin_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_Sahuagin_B.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c: 13 
+ 
+[LOG] Total files found across all folders: 231 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Projects\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c to Projects\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[DEBUG] Using destination: Projects\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:35:56 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\
+     Dest : C:\GIT_BG3\MOD_REPOS\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Projects\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\meta.lsx100%  
+	    New File  		   5.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\thumbnail.png 19%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    5.08 m    5.08 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           5331038000 Bytes/sec.
+   Speed :           305044.441 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:35:56 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c to "Editor\Mods"\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[DEBUG] Using destination: Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:35:57 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\
+     Dest : C:\GIT_BG3\MOD_REPOS\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    3575	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+	    New File  		   7.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB.lsmg100%  
+	    New File  		   7.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205.lsmg100%  
+	    New File  		   7.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360.lsmg100%  
+	    New File  		   7.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162.lsmg100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         8         8         1         0         0         0
+   Files :         5         5         0         0         0         0
+   Bytes :   31.99 m   31.99 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2396156500 Bytes/sec.
+   Speed :           137109.174 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:35:57 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 5 
+[DEBUG] Successfully copied files: 5 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c: 
+      Total files: 5 
+      Copied successfully: 5 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c to Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[DEBUG] Using destination: Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:35:59 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\
+     Dest : C:\GIT_BG3\MOD_REPOS\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    5407	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\meta.lsx100%  
+	    New File  		   5.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\mod_publish_logo.png  0%  100%  
+	    New File  		     437	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :    5.08 m    5.08 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2668096500 Bytes/sec.
+   Speed :           152669.706 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:35:59 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c: 
+      Total files: 3 
+      Copied successfully: 3 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c to Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[DEBUG] Using destination: Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:36:01 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\
+     Dest : C:\GIT_BG3\MOD_REPOS\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    2527	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		   13620	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\004f70af-6d31-a5b2-f6d9-6b7d80021205.lsf100%  
+	    New File  		    1681	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\0abdb12b-3100-d974-01a9-733e1c735012.lsf100%  
+	    New File  		    1666	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\1cce73da-d712-706f-65a0-4edaf35a8a35.lsf100%  
+	    New File  		   13629	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\1ebaeef9-c38c-9ba8-f952-23ce3fa4d360.lsf100%  
+	    New File  		    2731	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\2007f594-2857-408a-b56b-1f96dd613fe0.lsf100%  
+	    New File  		    2739	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\4f303e8c-d459-4931-9e73-0419ae74df47.lsf100%  
+	    New File  		    1675	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\50cc8e1a-36b4-af2a-983f-f708f4bbb86d.lsf100%  
+	    New File  		    1681	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\59299983-9b8f-46c7-40e6-90444d970c3b.lsf100%  
+	    New File  		   13626	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\5d38729d-7d74-0272-5086-4bd5dab3b162.lsf100%  
+	    New File  		    1672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\68f8e508-db0e-6491-01e2-61b30aa97722.lsf100%  
+	    New File  		    1672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\75c41565-ecd8-a765-11a0-7ecbe90941bb.lsf100%  
+	    New File  		    1678	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\7722a9d4-af36-0c2a-1ee0-d605e335b7c6.lsf100%  
+	    New File  		    2727	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\981d1c01-e8ce-4104-9374-dccce5cb6319.lsf100%  
+	    New File  		   13583	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\98c5fd60-5922-c6ef-9ba0-55471d190534.lsf100%  
+	    New File  		    1681	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\b2cd2fc9-db50-1870-9033-f4c93742d867.lsf100%  
+	    New File  		    1672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\d7aa24e3-4f8d-9ba7-b9a8-eed882cf3cf6.lsf100%  
+	    New File  		    1669	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Content\[PAK]_Scaly_tails\f210cf94-788a-ed76-a8fb-a33e32581ee5.lsf100%  
+	    New File  		   35998	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB.lsf100%  
+	    New File  		   35998	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205.lsf100%  
+	    New File  		   11512	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEF_DX11.bshd100%  
+	    New File  		   29227	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEF_DX12.bshd100%  
+	    New File  		   25024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEF_Vulkan.bshd100%  
+	    New File  		    2156	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEPST_DX11.bshd100%  
+	    New File  		   10933	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEPST_DX12.bshd100%  
+	    New File  		    4460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEPST_Vulkan.bshd100%  
+	    New File  		    1508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEPS_DX11.bshd100%  
+	    New File  		    9477	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEPS_DX12.bshd100%  
+	    New File  		    2668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEPS_Vulkan.bshd100%  
+	    New File  		    1508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEP_DX11.bshd100%  
+	    New File  		    9477	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEP_DX12.bshd100%  
+	    New File  		    2668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_DEP_Vulkan.bshd100%  
+	    New File  		    1588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_EMI_DX11.bshd100%  
+	    New File  		    9929	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_EMI_DX12.bshd100%  
+	    New File  		    2820	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_EMI_Vulkan.bshd100%  
+	    New File  		   37304	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_FOR_DX11.bshd100%  
+	    New File  		   47897	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_FOR_DX12.bshd100%  
+	    New File  		   55538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_FOR_Vulkan.bshd100%  
+	    New File  		    2868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_VEL_DX11.bshd100%  
+	    New File  		   13997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_VEL_DX12.bshd100%  
+	    New File  		    6160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_STI_VEL_Vulkan.bshd100%  
+	    New File  		   12144	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_BAKE_DX11.bshd100%  
+	    New File  		   28571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_BAKE_DX12.bshd100%  
+	    New File  		   26402	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_BAKE_Vulkan.bshd100%  
+	    New File  		   12672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEF_DX11.bshd100%  
+	    New File  		   30463	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEF_DX12.bshd100%  
+	    New File  		   27648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEF_Vulkan.bshd100%  
+	    New File  		    2264	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEPST_DX11.bshd100%  
+	    New File  		   11674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEPST_DX12.bshd100%  
+	    New File  		    5314	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEPST_Vulkan.bshd100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEPS_DX11.bshd100%  
+	    New File  		   10422	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEPS_DX12.bshd100%  
+	    New File  		    3642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEPS_Vulkan.bshd100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEP_DX11.bshd100%  
+	    New File  		   10422	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEP_DX12.bshd100%  
+	    New File  		    3626	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_DEP_Vulkan.bshd100%  
+	    New File  		    1728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_EMI_DX11.bshd100%  
+	    New File  		   10874	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_EMI_DX12.bshd100%  
+	    New File  		    3778	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_EMI_Vulkan.bshd100%  
+	    New File  		   38464	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_FOR_DX11.bshd100%  
+	    New File  		   49133	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_FOR_DX12.bshd100%  
+	    New File  		   58130	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_FOR_Vulkan.bshd100%  
+	    New File  		    3024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_VEL_DX11.bshd100%  
+	    New File  		   14674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_VEL_DX12.bshd100%  
+	    New File  		    7638	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_004f70af-6d31-a5b2-f6d9-6b7d80021205_ST_VEL_Vulkan.bshd100%  
+	    New File  		   35998	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360.lsf100%  
+	    New File  		   11512	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEF_DX11.bshd100%  
+	    New File  		   29227	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEF_DX12.bshd100%  
+	    New File  		   25024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEF_Vulkan.bshd100%  
+	    New File  		    2156	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEPST_DX11.bshd100%  
+	    New File  		   10933	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEPST_DX12.bshd100%  
+	    New File  		    4460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEPST_Vulkan.bshd100%  
+	    New File  		    1508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEPS_DX11.bshd100%  
+	    New File  		    9477	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEPS_DX12.bshd100%  
+	    New File  		    2668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEPS_Vulkan.bshd100%  
+	    New File  		    1508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEP_DX11.bshd100%  
+	    New File  		    9477	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEP_DX12.bshd100%  
+	    New File  		    2668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_DEP_Vulkan.bshd100%  
+	    New File  		    1588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_EMI_DX11.bshd100%  
+	    New File  		    9929	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_EMI_DX12.bshd100%  
+	    New File  		    2820	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_EMI_Vulkan.bshd100%  
+	    New File  		   37304	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_FOR_DX11.bshd100%  
+	    New File  		   47897	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_FOR_DX12.bshd100%  
+	    New File  		   55538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_FOR_Vulkan.bshd100%  
+	    New File  		    2868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_VEL_DX11.bshd100%  
+	    New File  		   13997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_VEL_DX12.bshd100%  
+	    New File  		    6160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_STI_VEL_Vulkan.bshd100%  
+	    New File  		   12144	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_BAKE_DX11.bshd100%  
+	    New File  		   28571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_BAKE_DX12.bshd100%  
+	    New File  		   26402	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_BAKE_Vulkan.bshd100%  
+	    New File  		   12672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEF_DX11.bshd100%  
+	    New File  		   30463	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEF_DX12.bshd100%  
+	    New File  		   27648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEF_Vulkan.bshd100%  
+	    New File  		    2264	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEPST_DX11.bshd100%  
+	    New File  		   11674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEPST_DX12.bshd100%  
+	    New File  		    5314	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEPST_Vulkan.bshd100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEPS_DX11.bshd100%  
+	    New File  		   10422	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEPS_DX12.bshd100%  
+	    New File  		    3642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEPS_Vulkan.bshd100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEP_DX11.bshd100%  
+	    New File  		   10422	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEP_DX12.bshd100%  
+	    New File  		    3626	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_DEP_Vulkan.bshd100%  
+	    New File  		    1728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_EMI_DX11.bshd100%  
+	    New File  		   10874	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_EMI_DX12.bshd100%  
+	    New File  		    3778	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_EMI_Vulkan.bshd100%  
+	    New File  		   38464	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_FOR_DX11.bshd100%  
+	    New File  		   49133	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_FOR_DX12.bshd100%  
+	    New File  		   58130	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_FOR_Vulkan.bshd100%  
+	    New File  		    3024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_VEL_DX11.bshd100%  
+	    New File  		   14674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_VEL_DX12.bshd100%  
+	    New File  		    7638	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_1ebaeef9-c38c-9ba8-f952-23ce3fa4d360_ST_VEL_Vulkan.bshd100%  
+	    New File  		   35998	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162.lsf100%  
+	    New File  		   11512	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEF_DX11.bshd100%  
+	    New File  		   29227	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEF_DX12.bshd100%  
+	    New File  		   25024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEF_Vulkan.bshd100%  
+	    New File  		    2156	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEPST_DX11.bshd100%  
+	    New File  		   10933	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEPST_DX12.bshd100%  
+	    New File  		    4460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEPST_Vulkan.bshd100%  
+	    New File  		    1508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEPS_DX11.bshd100%  
+	    New File  		    9477	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEPS_DX12.bshd100%  
+	    New File  		    2668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEPS_Vulkan.bshd100%  
+	    New File  		    1508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEP_DX11.bshd100%  
+	    New File  		    9477	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEP_DX12.bshd100%  
+	    New File  		    2668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_DEP_Vulkan.bshd100%  
+	    New File  		    1588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_EMI_DX11.bshd100%  
+	    New File  		    9929	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_EMI_DX12.bshd100%  
+	    New File  		    2820	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_EMI_Vulkan.bshd100%  
+	    New File  		   37304	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_FOR_DX11.bshd100%  
+	    New File  		   47897	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_FOR_DX12.bshd100%  
+	    New File  		   55538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_FOR_Vulkan.bshd100%  
+	    New File  		    2868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_VEL_DX11.bshd100%  
+	    New File  		   13997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_VEL_DX12.bshd100%  
+	    New File  		    6160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_STI_VEL_Vulkan.bshd100%  
+	    New File  		   12144	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_BAKE_DX11.bshd100%  
+	    New File  		   28571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_BAKE_DX12.bshd100%  
+	    New File  		   26402	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_BAKE_Vulkan.bshd100%  
+	    New File  		   12672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEF_DX11.bshd100%  
+	    New File  		   30463	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEF_DX12.bshd100%  
+	    New File  		   27648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEF_Vulkan.bshd100%  
+	    New File  		    2264	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEPST_DX11.bshd100%  
+	    New File  		   11674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEPST_DX12.bshd100%  
+	    New File  		    5314	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEPST_Vulkan.bshd100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEPS_DX11.bshd100%  
+	    New File  		   10422	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEPS_DX12.bshd100%  
+	    New File  		    3642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEPS_Vulkan.bshd100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEP_DX11.bshd100%  
+	    New File  		   10422	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEP_DX12.bshd100%  
+	    New File  		    3626	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_DEP_Vulkan.bshd100%  
+	    New File  		    1728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_EMI_DX11.bshd100%  
+	    New File  		   10874	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_EMI_DX12.bshd100%  
+	    New File  		    3778	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_EMI_Vulkan.bshd100%  
+	    New File  		   38464	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_FOR_DX11.bshd100%  
+	    New File  		   49133	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_FOR_DX12.bshd100%  
+	    New File  		   58130	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_FOR_Vulkan.bshd100%  
+	    New File  		    3024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_VEL_DX11.bshd100%  
+	    New File  		   14674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_VEL_DX12.bshd100%  
+	    New File  		    7638	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_5d38729d-7d74-0272-5086-4bd5dab3b162_ST_VEL_Vulkan.bshd100%  
+	    New File  		   11512	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEF_DX11.bshd100%  
+	    New File  		   29227	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEF_DX12.bshd100%  
+	    New File  		   25024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEF_Vulkan.bshd100%  
+	    New File  		    2156	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPST_DX11.bshd100%  
+	    New File  		   10933	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPST_DX12.bshd100%  
+	    New File  		    4460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPST_Vulkan.bshd100%  
+	    New File  		    1508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPS_DX11.bshd100%  
+	    New File  		    9477	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPS_DX12.bshd100%  
+	    New File  		    2668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPS_Vulkan.bshd100%  
+	    New File  		    1508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEP_DX11.bshd100%  
+	    New File  		    9477	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEP_DX12.bshd100%  
+	    New File  		    2668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEP_Vulkan.bshd100%  
+	    New File  		    1588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_EMI_DX11.bshd100%  
+	    New File  		    9929	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_EMI_DX12.bshd100%  
+	    New File  		    2820	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_EMI_Vulkan.bshd100%  
+	    New File  		   37304	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_FOR_DX11.bshd100%  
+	    New File  		   47897	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_FOR_DX12.bshd100%  
+	    New File  		   55538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_FOR_Vulkan.bshd100%  
+	    New File  		    2868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_VEL_DX11.bshd100%  
+	    New File  		   13997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_VEL_DX12.bshd100%  
+	    New File  		    6160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_VEL_Vulkan.bshd100%  
+	    New File  		   12144	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_BAKE_DX11.bshd100%  
+	    New File  		   28571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_BAKE_DX12.bshd100%  
+	    New File  		   26402	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_BAKE_Vulkan.bshd100%  
+	    New File  		   12672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEF_DX11.bshd100%  
+	    New File  		   30463	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEF_DX12.bshd100%  
+	    New File  		   27648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEF_Vulkan.bshd100%  
+	    New File  		    2264	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPST_DX11.bshd100%  
+	    New File  		   11674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPST_DX12.bshd100%  
+	    New File  		    5314	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPST_Vulkan.bshd100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPS_DX11.bshd100%  
+	    New File  		   10422	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPS_DX12.bshd100%  
+	    New File  		    3642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPS_Vulkan.bshd100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEP_DX11.bshd100%  
+	    New File  		   10422	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEP_DX12.bshd100%  
+	    New File  		    3626	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEP_Vulkan.bshd100%  
+	    New File  		    1728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_EMI_DX11.bshd100%  
+	    New File  		   10874	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_EMI_DX12.bshd100%  
+	    New File  		    3778	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_EMI_Vulkan.bshd100%  
+	    New File  		   38464	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_FOR_DX11.bshd100%  
+	    New File  		   49133	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_FOR_DX12.bshd100%  
+	    New File  		   58130	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_FOR_Vulkan.bshd100%  
+	    New File  		    3024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_VEL_DX11.bshd100%  
+	    New File  		   14674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_VEL_DX12.bshd100%  
+	    New File  		    7638	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_VEL_Vulkan.bshd100%  
+	    New File  		  182444	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_C_EL_Pinecone.GR2100%  
+	    New File  		     215	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_C_EL_Pinecone.xml100%  
+	    New File  		   87452	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_Sahuagin_A.GR2100%  
+	    New File  		     212	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_Sahuagin_A.xml100%  
+	    New File  		   87456	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_Sahuagin_B.GR2100%  
+	    New File  		     212	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_Sahuagin_B.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        14        14         1         0         0         0
+   Files :       208       208         0         0         0         0
+   Bytes :    3.09 m    3.09 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            62361538 Bytes/sec.
+   Speed :            3568.355 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:36:01 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 208 
+[DEBUG] Successfully copied files: 208 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c: 
+      Total files: 208 
+      Copied successfully: 208 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c to "Generated\Public"\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[DEBUG] Using destination: Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:36:03 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\
+     Dest : C:\GIT_BG3\MOD_REPOS\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  182444	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_C_EL_Pinecone.GR2100%  
+	    New File  		   87452	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_Sahuagin_A.GR2100%  
+	    New File  		   87456	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Scaly_tails\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Tail_A\Tail\DGB_M_NKD_Tail_Sahuagin_B.GR2100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_C_EL_Pinecone_CTLO.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_C_EL_Pinecone_DMSK.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_C_EL_Pinecone_HMVY.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_C_EL_Pinecone_MSK.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_C_EL_Pinecone_NM.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_Sahuagin_A_CTLO.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_Sahuagin_A_DMSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_Sahuagin_A_HMVY.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_Sahuagin_A_MSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Tail_Sahuagin_A_NM.DDS100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        15        15         1         0         0         0
+   Files :        13        13         0         0         0         0
+   Bytes :  107.00 m  107.00 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2952814526 Bytes/sec.
+   Speed :           168961.402 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:36:03 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 13 
+[DEBUG] Successfully copied files: 13 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c: 
+      Total files: 13 
+      Copied successfully: 13 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 5 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 3 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 208 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Scaly_tails_7848f554-35c3-cf5a-8607-6c8c66fafa0c 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 13 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 231 
+[SUMMARY] Total files successfully copied: 462 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

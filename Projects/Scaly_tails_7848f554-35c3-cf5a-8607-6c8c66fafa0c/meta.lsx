@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="7848f554-35c3-cf5a-8607-6c8c66fafa0c"/>
+            <attribute id="Name" type="LSString" value="Scaly_tails"/>
+            <attribute id="UUID" type="LSString" value="a71ef618-5743-481b-3bfe-f3faf7f60b65"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

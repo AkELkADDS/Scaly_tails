@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="CharacterCreationAppearanceVisuals">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6499d857gb100g6f9ag89dbg2b84b558557c" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="cd2fdeff-2ff5-4a43-a057-8ffaa5fdba5b"/>
+                    <attribute id="VisualResource" type="guid" value="981d1c01-e8ce-4104-9374-dccce5cb6319"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h53d6defeg0072g0b08g7edfg866956cfa84f" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="dc521d28-1c4e-4a27-9984-8393bdac6bb2"/>
+                    <attribute id="VisualResource" type="guid" value="2007f594-2857-408a-b56b-1f96dd613fe0"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc048b402g3909ged7fg450dg5352e1ec3f99" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="713da1ac-4c93-4818-97da-3d0c956d52f4"/>
+                    <attribute id="VisualResource" type="guid" value="4f303e8c-d459-4931-9e73-0419ae74df47"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
